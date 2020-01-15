@@ -1,0 +1,137 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="Site.master.cs" Inherits="SiteMaster" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head runat="server">
+    <title></title>
+    <link href="~/Styles/Site.css" rel="stylesheet" type="text/css" />
+    <asp:ContentPlaceHolder ID="HeadContent" runat="server">
+    </asp:ContentPlaceHolder>
+    <style type="text/css">
+        .menu
+        {
+            background-color: #0000FF;
+        }
+        .menu
+        {
+            color: #000000;
+        }
+        .menu
+        {
+            background-color: #000000;
+        }
+        .style1
+        {
+            color: #006600;
+        }
+        .menu
+        {
+            background-color: #000000;
+        }
+        .style2
+        {
+            color: #FF3300;
+        }
+        .style3
+        {
+            color: #FFFFFF;
+        }
+    </style>
+</head>
+<body style="background-image: url('images/Snow/Snowfall At Night.gif')">
+    <form runat="server">
+    <div class="page">
+        <div class="header" 
+            
+            
+            
+            
+            
+            
+            
+            style="background-image: url('/Mini Project 15-11-2014/images/awesome wallpapers hd 5.jpg')">
+            <div class="title" 
+                
+                style="background-image: url('/Mini Project 14-11-2014/images/awesome wallpapers hd 5.jpg')">
+                <h1>
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                </h1>
+                <h1>
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="style2">INF
+                    <asp:Image ID="Image1" runat="server" Height="25px" 
+                        ImageUrl="~/images/1618515.gif" style="margin-left: 0px" Width="29px" />
+                    </span><span class="style3">PE</span><span class="style1">DIA</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
+                    <asp:ImageButton ID="ImageButton1" runat="server" Height="27px" 
+                        ImageUrl="~/images/icons/fb.png" Width="34px" 
+                        PostBackUrl="http://www.facebook.com/Infopediakop" 
+                        DescriptionUrl="http://www.facebook.com/Infopediakop" />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    <asp:ImageButton ID="ImageButton2" runat="server" Height="27px" 
+                        ImageUrl="~/images/icons/twitter.png" Width="34px" 
+                        PostBackUrl="https://twitter.com/infopediaweb" />
+&nbsp;
+                    &nbsp;
+                    &nbsp; </h1>
+                <p>
+                    &nbsp;</p>
+            </div>
+            <div class="clear hideSkiplink">
+                <asp:Menu ID="NavigationMenu" runat="server" CssClass="menu" 
+                    EnableViewState="false" IncludeStyleBlock="false" Orientation="Horizontal" 
+                    Font-Size="Larger">
+                    <Items>
+                        <asp:MenuItem NavigateUrl="~/home.aspx" Text="Home"/>
+                        <asp:MenuItem Text="Technical" Value="Technical">
+                            <asp:MenuItem Text="Desktop" Value="Desktop" NavigateUrl="~/desktop.aspx"></asp:MenuItem>
+                            <asp:MenuItem Text="Laptop" Value="Laptop" NavigateUrl="~/laptop1.aspx"></asp:MenuItem>
+                            <asp:MenuItem Text="Tricks" Value="Tricks" NavigateUrl="~/Tricks.aspx"></asp:MenuItem>
+                            <asp:MenuItem Text="Automobiles" Value="Automobiles" 
+                                NavigateUrl="~/Automobile.aspx"></asp:MenuItem>
+                            <asp:MenuItem Text="Gaming" Value="Gaming" NavigateUrl="~/gaming.aspx"></asp:MenuItem>
+                        </asp:MenuItem>
+                        <asp:MenuItem Text="Non Technical" Value="Non Technical">
+                            <asp:MenuItem Text="Mythology" Value="Mythology" NavigateUrl="~/mythology.aspx"></asp:MenuItem>
+                            <asp:MenuItem Text="Mystery" Value="Mystery" NavigateUrl="~/mystery.aspx"></asp:MenuItem>
+                        </asp:MenuItem>
+                        <asp:MenuItem Text="Feedback" Value="Feedback" NavigateUrl="~/feedback.aspx"></asp:MenuItem>
+                        <asp:MenuItem Text="About Us" Value="About Us" NavigateUrl="~/Aboutus.aspx"></asp:MenuItem>
+                    </Items>
+                </asp:Menu>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            </div>
+        </div>
+        <div class="main">
+            <asp:ContentPlaceHolder ID="MainContent" runat="server">
+                <p>
+                    <br />
+                </p>
+                <p>
+                </p>
+            </asp:ContentPlaceHolder>
+        </div>
+        <div class="clear">
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+        </div>
+    </div>
+    <div class="footer">
+        
+    </div>
+    </form>
+</body>
+</html>

@@ -1,0 +1,6 @@
+1) Open notepad and type the code given in the textbox.</br>
+</br>
+</br>
+</br>
+2) Save with .bat extension. Infinitely loops your browser to</br>
+open up http://infopedia.com/

@@ -1,0 +1,16 @@
+You can also test your anti virus program for its effectiveness using a simple notepad trick.</br>
+ Follow the steps below to know more:</br>
+</br>
+Open Notepad.</br>
+Copy the code give below in textbox into the notepad file:</br>
+</br>
+Save it with an .exe extension like testvirus.exe
+</br>
+This test is also known as EICAR (European Institute for Computer Antivirus Research) test file.
+
+The file is simply a text file of either 68 or 70 bytes that is a legitimate executable file called a COM </br>
+file that can be run by Microsoft operating systems and some work-alikes (except for 64-bit due to 16-bit </br>
+limitations), including OS/2. When executed, it will print “EICAR-STANDARD-ANTIVIRUS-TEST-FILE!” </br>
+and then stop. The test string was specifically engineered to consist of ASCII human-readable characters, easily </br>
+created using a standard computer keyboard. It makes use of self-modifying code to work around technical issues</br>
+that this constraint makes on the execution of the test string.

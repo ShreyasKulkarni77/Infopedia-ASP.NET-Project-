@@ -1,0 +1,154 @@
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.master" AutoEventWireup="true" CodeFile="Default.aspx.cs" Inherits="_Default" %>
+
+<asp:Content ID="Content1" ContentPlaceHolderID="HeadContent" Runat="Server">
+    <style type="text/css">
+        .style4
+        {
+            width: 100%;
+        }
+    </style>
+</asp:Content>
+<asp:Content ID="Content2" ContentPlaceHolderID="MainContent" Runat="Server">
+    <p>
+        <br />
+    </p>
+    <p>
+        &nbsp;</p>
+    <p>
+        &nbsp;</p>
+    <table class="style4">
+        <tr>
+            <td>
+                <div id="stcpDiv" style="position: absolute; top: -1999px; left: -1988px;">
+                    Android One will bring high-quality smartphones to India, says Pichai - See more 
+                    at: 
+                    http://www.hindustantimes.com/news-feed/chunk-ht-ui-technology-featuredstories/android-one-will-bring-high-qualitysmartphones-to-new-mkts-like-india/article1-1264392.aspx#sthash.984zcFO1.dpuf</div>
+                <div id="stcpDiv0" style="position: absolute; top: -1999px; left: -1988px;">
+                    Android One will bring high-quality smartphones to India, says Pichai - See more 
+                    at: 
+                    http://www.hindustantimes.com/news-feed/chunk-ht-ui-technology-featuredstories/android-one-will-bring-high-qualitysmartphones-to-new-mkts-like-india/article1-1264392.aspx#sthash.984zcFO1.dpuf</div>
+                <div id="stcpDiv1" style="position: absolute; top: -1999px; left: -1988px;">
+                    In March 2013, Chennai-born P Sundarajan, better known as Sundar Pichai, shot to 
+                    fame when Google CEO Larry Page announced that he would head the Chrome 
+                    operating system (OS) and apps business and fill the shoes of Andy Rubin, the 
+                    architect of the Android unit. Around that time, Pichai was also being mentioned 
+                    as a potential co-CEO of Microsoft Corp. Reports said Pichai was cajoled to stay 
+                    back by Page. An IIT-Kharagpur graduate, Pichai joined Google in 2004. Today, 
+                    the Android operating system (OS) has a market share in excess of 80%, both 
+                    globally and in India. In an interview on Monday, Pichai, in Delhi to launch 
+                    three Android One phones, spoke about the road ahead for Android, wearable 
+                    devices and partners. Edited excerpts: - See more at: 
+                    http://www.hindustantimes.com/news-feed/chunk-ht-ui-technology-featuredstories/android-one-will-bring-high-qualitysmartphones-to-new-mkts-like-india/article1-1264392.aspx#sthash.984zcFO1.dpuf</div>
+                <div id="stcpDiv2" style="position: absolute; top: -1999px; left: -1988px;">
+                    In March 2013, Chennai-born P Sundarajan, better known as Sundar Pichai, shot to 
+                    fame when Google CEO Larry Page announced that he would head the Chrome 
+                    operating system (OS) and apps business and fill the shoes of Andy Rubin, the 
+                    architect of the Android unit. Around that time, Pichai was also being mentioned 
+                    as a potential co-CEO of Microsoft Corp. Reports said Pichai was cajoled to stay 
+                    back by Page. An IIT-Kharagpur graduate, Pichai joined Google in 2004. Today, 
+                    the Android operating system (OS) has a market share in excess of 80%, both 
+                    globally and in India. In an interview on Monday, Pichai, in Delhi to launch 
+                    three Android One phones, spoke about the road ahead for Android, wearable 
+                    devices and partners. Edited excerpts: - See more at: 
+                    http://www.hindustantimes.com/news-feed/chunk-ht-ui-technology-featuredstories/android-one-will-bring-high-qualitysmartphones-to-new-mkts-like-india/article1-1264392.aspx#sthash.984zcFO1.dpuf</div>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                &nbsp;</td>
+        </tr>
+        <tr>
+            <td>
+                &nbsp;</td>
+        </tr>
+        <tr>
+            <td>
+                &nbsp;</td>
+        </tr>
+        <tr>
+            <td>
+                &nbsp;</td>
+        </tr>
+        <tr>
+            <td>
+                &nbsp;</td>
+        </tr>
+        <tr>
+            <td>
+                &nbsp;</td>
+        </tr>
+        <tr>
+            <td>
+                &nbsp;</td>
+        </tr>
+        <tr>
+            <td>
+                &nbsp;</td>
+        </tr>
+        <tr>
+            <td>
+                &nbsp;</td>
+        </tr>
+        <tr>
+            <td>
+                &nbsp;</td>
+        </tr>
+        <tr>
+            <td>
+                &nbsp;</td>
+        </tr>
+        <tr>
+            <td>
+                &nbsp;</td>
+        </tr>
+        <tr>
+            <td>
+                &nbsp;</td>
+        </tr>
+        <tr>
+            <td>
+                &nbsp;</td>
+        </tr>
+        <tr>
+            <td>
+                &nbsp;</td>
+        </tr>
+        <tr>
+            <td>
+                &nbsp;</td>
+        </tr>
+        <tr>
+            <td>
+                &nbsp;</td>
+        </tr>
+        <tr>
+            <td>
+                &nbsp;</td>
+        </tr>
+        <tr>
+            <td>
+                &nbsp;</td>
+        </tr>
+        <tr>
+            <td>
+                &nbsp;</td>
+        </tr>
+        <tr>
+            <td>
+                &nbsp;</td>
+        </tr>
+        <tr>
+            <td>
+                &nbsp;</td>
+        </tr>
+        <tr>
+            <td>
+                &nbsp;</td>
+        </tr>
+        <tr>
+            <td>
+                &nbsp;</td>
+        </tr>
+    </table>
+</asp:Content>
+

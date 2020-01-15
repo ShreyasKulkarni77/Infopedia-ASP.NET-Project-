@@ -1,0 +1,11 @@
+1) Now Please don’t try this because this is the most simplest and deadliest hack for your windows computer.
+Copy the following code into your notepad:</br>
+
+2) Save it as “shutdown- forever.bat”. Just make sure it has a .bat or .cmd extension.</br>
+
+
+WARNING: DONT RUN THE BATCH FILE ,YOU</br>
+WONT RECOVER BACK AFTER YOU</br>
+RUN IT !!!</br>
+This should shutdown the persons computer. It shuts it off once and deletes the files needed to reboot and restart.</br>
+                           So please, use this hack only if you have no intention of rebooting your computer again. So just be careful. Here’s an alternative code.</br>

@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements>
+  <Ad>
+    <ImageUrl>~/images/NEWS/1.jpg</ImageUrl>
+    <Width>694</Width>
+    <Height>299</Height>
+    <NavigateUrl>http://www.dotnetcurry.com</NavigateUrl>
+    <AlternateText>DotNetCurry Home Page</AlternateText>
+    <Impressions>40</Impressions>
+    <Keyword>small</Keyword>
+  </Ad>
+  <Ad>
+    <ImageUrl>~/images/NEWS/2.jpg</ImageUrl>
+    <Width>694</Width>
+    <Height>299</Height>
+    <NavigateUrl>http://www.dotnetcurry.com</NavigateUrl>
+    <AlternateText>DotNetCurry Home Page</AlternateText>
+    <Impressions>40</Impressions>
+    <Keyword>small</Keyword>
+  </Ad>
+
+  <Ad>
+    <ImageUrl>~/images/NEWS/3.jpg</ImageUrl>
+    <Width>694</Width>
+    <Height>299</Height>
+    <NavigateUrl>http://www.dotnetcurry.com</NavigateUrl>
+    <AlternateText>DotNetCurry Home Page</AlternateText>
+    <Impressions>40</Impressions>
+    <Keyword>small</Keyword>
+  </Ad>
+
+  <Ad>
+    <ImageUrl>~/images/NEWS/4.jpg</ImageUrl>
+    <Width>694</Width>
+    <Height>299</Height>
+    <NavigateUrl>http://www.dotnetcurry.com</NavigateUrl>
+    <AlternateText>DotNetCurry Home Page</AlternateText>
+    <Impressions>40</Impressions>
+    <Keyword>small</Keyword>
+  </Ad>
+
+  <Ad>
+    <ImageUrl>~/images/NEWS/5.jpg</ImageUrl>
+    <Width>694</Width>
+    <Height>299</Height>
+    <NavigateUrl>http://www.dotnetcurry.com</NavigateUrl>
+    <AlternateText>DotNetCurry Home Page</AlternateText>
+    <Impressions>40</Impressions>
+    <Keyword>small</Keyword>
+  </Ad>
+</Advertisements>
